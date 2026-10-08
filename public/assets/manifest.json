@@ -1,0 +1,9 @@
+{
+  "note": "Original generated aviation images for Airline 96. Neutral liveries, no airline logos. Prompts describe the photographic target for each asset so new aircraft and airports can be added by dropping a data record plus these files.",
+  "aircraftExterior": "Realistic aviation photograph of a {manufacturer} {model} in a neutral white livery with a single thin cheatline, parked or taxiing at a fictional airport, natural light, no text, no logo, no watermark.",
+  "cabin": "Realistic interior photograph of a {model} cabin appropriate to that generation, no people, no logos, no readable brand text.",
+  "cockpit": "Realistic photograph of a {model} cockpit from that generation, no pilot faces, no airline names, no watermark.",
+  "maintenance": "Realistic hangar photograph of maintenance on a {category} aircraft, no logos, no readable text.",
+  "airportAerial": "Realistic aerial photograph-style view of a fictional airport in {region}, runways and terminals, no text, no logos.",
+  "airportTerminal": "Realistic terminal exterior inspired by {city}'s climate and landscape, not a copy of a copyrighted terminal design, no text, no logos."
+}
