@@ -3,8 +3,7 @@
 **Airline 96** is a browser-based single-player airline management simulator.
 
 ## Play Online
-
-https://airline-game-improved.onrender.com/
+https://airline-game-new.onrender.com
 
 No installation required. Open the link and start playing.
 
